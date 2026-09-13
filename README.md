@@ -1,7 +1,9 @@
-# 🔄 LearnLoop
-
-> **Turn scattered YouTube playlists into structured, distraction-free learning paths.**  
-> Track your progress, write timestamped notes that auto-save, and search across your entire personal knowledge base.
+<div align="center">
+  <img src="frontend/public/learnloop_logo.png" alt="LearnLoop Logo" width="96" />
+  <h1>LearnLoop</h1>
+  <p><strong>Turn scattered YouTube playlists into structured, distraction-free learning paths.</strong><br>
+  Track your progress, write timestamped notes that auto-save, and search across your entire personal knowledge base.</p>
+</div>
 
 ---
 
